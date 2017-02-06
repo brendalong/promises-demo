@@ -1,4 +1,4 @@
-# Using JavaScript Promises to Load Map Tiles
+# Using JavaScript Promises to Load Map Tiles - Variation
 
 This repository has the code that I used for the [JavaScript Promises video](https://www.youtube.com/watch?v=ieS07COyZZU) for Nashville Software School students.
 

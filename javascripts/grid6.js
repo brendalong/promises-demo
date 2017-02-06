@@ -27,6 +27,7 @@ let getGrid006 = function () {
 
     loader.open("GET", "../images/grid006.png");
     loader.responseType = "blob";
+    
     window.setTimeout(function () {
       loader.send();
     }, Math.random() * 2000);

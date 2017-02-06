@@ -3,7 +3,6 @@
 let getGrid003 = function () {
 
   return new Promise((resolve, reject) => {
-
     // Create an XHR to load the image
     var loader = new XMLHttpRequest();
 
